@@ -33,8 +33,6 @@
 
 - :closed_book:  I’m currently learning JavaScript, React and SpringBoot
 
-- :bow_and_arrow: I’m looking for a job opportunity as a junior developer
-
 - 💬 I'm a fullstack web developer, and I program on android too 
 
 
