@@ -35,7 +35,7 @@
 
 - :bow_and_arrow: I’m looking for a job opportunity as a junior developer
 
-- 💬 I'm a fullstack web developer, but I program on android too 
+- 💬 I'm a fullstack web developer, and I program on android too 
 
 
 <sup><sub>PS: I've been trying to do a readme for each project when it's done, have a look </sub></sup>
