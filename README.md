@@ -2,6 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
+
 ![github_dark](https://user-images.githubusercontent.com/94193637/162602118-9f89d6c2-0caf-47c2-ac71-d4a55d06c75e.png#gh-dark-mode-only)
 ![github_capa](https://user-images.githubusercontent.com/94193637/162604517-c3ca3943-282e-46bb-a3aa-fec6f0cfe2db.png#gh-light-mode-only)
 
@@ -18,8 +19,16 @@
 <img align="center" alt="React-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title=React />
 <img align="center" alt="Html-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title=HTML /> 
 <img align="center" alt="Css-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" title=CSS />
-<img align="center" alt="Android-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" title=Android />
+<img align="center" alt="Android-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" title=Android />
+<img align="center" alt="Android-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title=Android />
+<img align="center" alt="Android-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title=Android />          
+<img align="center" alt="Android-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title=Android />
+<img align="center" alt="Android-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" title=Android />
 </div>
+
+
+
+
           
 ## About me          
 <br>
