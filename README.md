@@ -4,7 +4,7 @@
 
 ![github-dark (4)](https://user-images.githubusercontent.com/94193637/210787501-5f111640-623e-4f77-b855-fc352c26faee.png#gh-dark-mode-only)
 
-![github_capa](https://user-images.githubusercontent.com/94193637/162604517-c3ca3943-282e-46bb-a3aa-fec6f0cfe2db.png#gh-light-mode-only)
+![github-light](https://user-images.githubusercontent.com/94193637/210789843-0fc80e0a-d51c-4df6-93c8-41167883652f.png#gh-light-mode-only)
 
 <div align="center">
 <img align="center" alt="NextJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title=NextJS /> 
