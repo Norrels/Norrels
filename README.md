@@ -2,7 +2,7 @@
 
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![github-dark (2)](https://user-images.githubusercontent.com/94193637/210783938-7b6b11a7-72c4-4c30-ad08-0ba25bc462db.png#gh-dark-mode-only)
+![github-dark (4)](https://user-images.githubusercontent.com/94193637/210787501-5f111640-623e-4f77-b855-fc352c26faee.png#gh-dark-mode-only)
 
 ![github_capa](https://user-images.githubusercontent.com/94193637/162604517-c3ca3943-282e-46bb-a3aa-fec6f0cfe2db.png#gh-light-mode-only)
 
