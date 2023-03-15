@@ -40,7 +40,7 @@
 
 - :coffee: My first language was Java, I started learn in June of 2021
 
-- :blue_book:  I’m currently learning JavaScript, React and SpringBoot
+- :blue_book:  I’m currently learning NextJS, React and SpringBoot
 
 - 💬 I'm a fullstack web developer, and I program on android too 
 
