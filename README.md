@@ -1,9 +1,6 @@
-
-
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
 ![github-dark (4)](https://user-images.githubusercontent.com/94193637/210787501-5f111640-623e-4f77-b855-fc352c26faee.png#gh-dark-mode-only)
-
 ![github-light](https://user-images.githubusercontent.com/94193637/210789843-0fc80e0a-d51c-4df6-93c8-41167883652f.png#gh-light-mode-only)
 
 <div align="center">
@@ -20,18 +17,12 @@
 
 </div>
 
-
-
-
-          
 ## About me          
 <br>
 
-
-
 <img width="50%" height="210em" align="right" alt="Github" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Norrels&layout=compact&langs_count=7&theme=swift"/>
 
-- 🤓 A full-stack developer who like create beautiful things.
+- 🤓 A full-stack developer who likes to create beautiful things
 
 - :coffee: My first language was Java, I started learn in June of 2021
 
