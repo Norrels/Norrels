@@ -1,19 +1,22 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.15.1/devicon.min.css">
 
-![github-dark (4)](https://user-images.githubusercontent.com/94193637/210787501-5f111640-623e-4f77-b855-fc352c26faee.png#gh-dark-mode-only)
-![github-light](https://user-images.githubusercontent.com/94193637/210789843-0fc80e0a-d51c-4df6-93c8-41167883652f.png#gh-light-mode-only)
-
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/c55a3efc-27bd-4a84-8ac3-cd3a85eb6d4a">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/56880290-1125-498b-b321-08d0241b20bf">
+  <img alt="Displays an illustrated text 'PDF Generator' with a gradient ranging from orange to light orange, progressing from left to right." src="https://github.com/user-attachments/assets/e68ccbaa-b037-4cbb-83f4-bb5e46c168ca">
+</picture>
+    
 <div align="center">
-<img align="center" alt="NextJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title=NextJS /> 
-<img align="center" alt="Java-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain-wordmark.svg" title=Java /> 
-<img align="center" alt="Spring-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original-wordmark.svg" title=Spring-Boot />
-<img align="center" alt="Js-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title=JavaScript />
-<img align="center" alt="TypeScript-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title=TypeScript />
-<img align="center" alt="React-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" title=React />
-<img align="center" alt="Html-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" title=HTML /> 
-<img align="center" alt="Sass-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" title=CSS />
+
+<img align="center" alt="React-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" title=React />
 <img align="center" alt="Tailwind-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" title=Tailwind />
+<img align="center" alt="GoLang-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" title=GoLang />
+<img align="center" alt="TypeScript-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title=TypeScript />
+<img align="center" alt="Js-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title=JavaScript />
+<img align="center" alt="Java-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" title=Java /> 
+<img align="center" alt="Spring-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title=Spring-Boot />
 <img align="center" alt="NodeJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title=NodeJS />
+<img align="center" alt="NextJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title=NextJS /> 
 
 </div>
 
