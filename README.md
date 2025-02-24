@@ -14,7 +14,7 @@
 <img align="center" alt="TypeScript-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title=TypeScript />
 <img align="center" alt="Js-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title=JavaScript />
 <img align="center" alt="Java-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" title=Java /> 
-<img align="center" alt="Spring-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" title=Spring-Boot />
+<img align="center" alt="Spring-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title=Spring-Boot />
 <img align="center" alt="NodeJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title=NodeJS />
 <img align="center" alt="NextJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title=NextJS /> 
 
