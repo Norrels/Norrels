@@ -16,7 +16,7 @@
 <img align="center" alt="Java-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-plain.svg" title=Java /> 
 <img align="center" alt="Spring-Logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" title=Spring-Boot />
 <img align="center" alt="NodeJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" title=NodeJS />
-<img align="center" alt="NextJS-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" title=NextJS /> 
+<img align="center" alt="Bun-logo" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bun/bun-original.svg" title=Bun />
 
 </div>
 
@@ -29,7 +29,7 @@
 
 - :coffee: My first language was Java, I started learn in June of 2021
 
-- :blue_book:  I’m currently learning Go
+- :blue_book:  I’m currently learning Go and Bun
 
 - 🖼️ The possibility of being creative is what makes me love development.
 
